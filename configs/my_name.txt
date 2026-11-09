@@ -1,3 +1,5 @@
-buildings, clutter
-roads, cars
-vegetation, trees
+sky
+hill
+tree
+horse
+grass
